@@ -1,0 +1,14 @@
+{
+  "name": "socket_sample",
+  "version": "0.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "socket.io": "^1.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jia",
+  "license": "ISC"
+}
